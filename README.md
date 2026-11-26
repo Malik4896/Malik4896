@@ -1,18 +1,17 @@
-<!-- Save as README.md in a public repo named exactly like your GitHub username.
-     Then replace every YOUR_USERNAME below with your real GitHub username. -->
+<!-- Save as README.md in a public repo named exactly like your GitHub username (Abdulmalik652006). -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Abdul%20Malik%20B%20J&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Abdulmalik652006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Malik;AI+%26+Data+Science+Student+%E2%80%A2+Aspiring+AI%2FML+Engineer;Turning+data+into+decisions+with+Python+%26+ML" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=1f6feb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=8957e5)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulmalik652006&label=Profile%20views&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Abdulmalik652006?label=Followers&style=for-the-badge&logo=github&color=8957e5)
 ![Location](https://img.shields.io/badge/Chennai-India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -117,6 +116,8 @@ I build data-driven systems end to end: cleaning and exploring data, training an
 
 `MongoDB` `Express.js` `React.js` `Node.js` `Python` `Scikit-learn`
 
+🔗 **[Malik4896/prescientIQ](https://github.com/Malik4896/prescientIQ)**
+
 <br/>
 
 ### 💻 C2X — AI-Powered Desktop IDE & Developer Platform *(In progress)*
@@ -128,12 +129,25 @@ I build data-driven systems end to end: cleaning and exploring data, training an
 
 `React.js` `TypeScript` `JavaScript` `Monaco Editor` `Git`
 
+🔗 **[Jeevan4125/CodeSync-IDE](https://github.com/Jeevan4125/CodeSync-IDE)**
+
 <br/>
 
 ### 📋 Project Management Tool *(AdroIT Technologies internship deliverable)*
 > A role-based project management app built as the core deliverable of a 6-week virtual internship.
 
 `Express.js` `React.js` `Tailwind CSS` `Node.js`
+
+🔗 **[Malik4896/Project-management-Application](https://github.com/Malik4896/Project-management-Application)**
+
+<br/>
+
+### 📈 AI Agent Usage Analytics (2023–2025)
+> A data analysis project on AI agent usage trends from 2023 to 2025.
+
+`Python` `Data Analysis`
+
+🔗 **[Malik4896/AI-Agent-Usage-Analytics-2023-2025](https://github.com/Malik4896/AI-Agent-Usage-Analytics-2023-2025)**
 
 ---
 
@@ -142,31 +156,29 @@ I build data-driven systems end to end: cleaning and exploring data, training an
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/YOUR_USERNAME/PrescientIQ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PrescientIQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
+      <a href="https://github.com/Malik4896/prescientIQ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malik4896&repo=prescientIQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YOUR_USERNAME/C2X">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=C2X&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
+      <a href="https://github.com/Jeevan4125/CodeSync-IDE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan4125&repo=CodeSync-IDE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/YOUR_USERNAME/REPO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
+      <a href="https://github.com/Malik4896/Project-management-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malik4896&repo=Project-management-Application&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YOUR_USERNAME/REPO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO-4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
+      <a href="https://github.com/Malik4896/AI-Agent-Usage-Analytics-2023-2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malik4896&repo=AI-Agent-Usage-Analytics-2023-2025&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
       </a>
     </td>
   </tr>
 </table>
-
-> ✏️ Replace `REPO-3` / `REPO-4` (and the repo names above if they differ) with your real repositories, ideally an ML or data-analysis project and your Project Management Tool.
 
 ---
 
@@ -207,7 +219,7 @@ I build data-driven systems end to end: cleaning and exploring data, training an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdulmalik652006&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
@@ -219,20 +231,20 @@ I build data-driven systems end to end: cleaning and exploring data, training an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulmalik652006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmalik652006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=8957e5&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=Abdulmalik652006&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=8957e5&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulmalik652006&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulmalik652006&theme=tokyonight" />
 
 </div>
 
